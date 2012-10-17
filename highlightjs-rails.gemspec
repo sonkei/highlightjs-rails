@@ -10,7 +10,7 @@ Gem::Specification.new do |gem|
   gem.email         = ["chris@subcu.lt"]
   gem.description   = %q{rails plugin for highlightjs}
   gem.summary       = %q{rails plugin for highlightjs}
-  gem.homepage      = ""
+  gem.homepage      = "https://github.com/sonkei/highlightjs-rails"
 
   gem.files         = `git ls-files`.split($/)
   gem.executables   = gem.files.grep(%r{^bin/}).map{ |f| File.basename(f) }
