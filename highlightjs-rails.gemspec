@@ -8,8 +8,8 @@ Gem::Specification.new do |gem|
   gem.version       = Highlightjs::Rails::VERSION
   gem.authors       = ["chris bailey"]
   gem.email         = ["chris@subcu.lt"]
-  gem.description   = %q{TODO: Write a gem description}
-  gem.summary       = %q{TODO: Write a gem summary}
+  gem.description   = %q{rails plugin for highlightjs}
+  gem.summary       = %q{rails plugin for highlightjs}
   gem.homepage      = ""
 
   gem.files         = `git ls-files`.split($/)
