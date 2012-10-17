@@ -1,7 +1,7 @@
 # Highlightjs::Rails
 
 Rails plugin for [highlight.js](http://softwaremaniacs.org/soft/highlight/en/)
-syntax highlighter.
+7.3.
 
 ## Installation
 
