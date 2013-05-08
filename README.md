@@ -7,7 +7,7 @@ Rails plugin for [highlight.js](http://softwaremaniacs.org/soft/highlight/en/)
 
 Add this line to your application's Gemfile:
 
-    gem 'highlightjs-rails', git: 'git@github.com:sonkei/highlightjs-rails.git'
+    gem 'highlightjs-rails', git: 'git://github.com/sonkei/highlightjs-rails.git'
 
 And then execute:
 
